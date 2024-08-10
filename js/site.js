@@ -1,0 +1,1 @@
+$(".t228__list t-menu__list t228__list_hidden").mPageScroll2id();

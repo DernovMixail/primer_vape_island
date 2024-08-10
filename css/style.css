@@ -1,0 +1,29 @@
+/*tovar*/
+.tovar_title
+{
+    font-size: 46px;
+    font-weight: 600;
+    color: black;
+}
+.tovar_strelki
+{
+    font-size: 21px;
+    font-weight: 600;
+    color: blue;    
+}
+.description_text
+{
+    font-size: 21px;
+    font-weight: 400;
+    color: white;
+    text-align: right;
+    padding-right: 100px;
+}
+.description_titile
+{
+    font-size: 36px;
+    font-weight: 400;
+    color: white;
+    text-align: right;
+    padding: 30px;
+}
